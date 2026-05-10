@@ -27,7 +27,6 @@
 
 <br/>
 
-### 👉 [View Full Interactive README →](https://swe-turki.github.io/InnovaLearn-AI/)
 
 <br/>
 
